@@ -1,0 +1,12 @@
+INSERT INTO USER_MODEL (id, name, email) VALUES (1, 'Alice Johnson', 'alice.johnson@example.com');
+INSERT INTO USER_MODEL (id, name, email) VALUES (2, 'Bob Smith', 'bob.smith@example.com');
+INSERT INTO USER_MODEL (id, name, email) VALUES (3, 'Charlie Davis', 'charlie.davis@example.com');
+INSERT INTO USER_MODEL (id, name, email) VALUES (4, 'Diana Lee', 'diana.lee@example.com');
+INSERT INTO USER_MODEL (id, name, email) VALUES (5, 'Ethan Brown', 'ethan.brown@example.com');
+
+
+INSERT INTO orders (id, product, price) VALUES (1, 'Laptop', 1200.00);
+INSERT INTO orders (id, product, price) VALUES (2, 'Smartphone', 850.00);
+INSERT INTO orders (id, product, price) VALUES (3, 'Wireless Headphones', 150.00);
+INSERT INTO orders (id, product, price) VALUES (4, 'Gaming Monitor', 300.00);
+INSERT INTO orders (id, product, price) VALUES (5, 'Mechanical Keyboard', 75.00);
